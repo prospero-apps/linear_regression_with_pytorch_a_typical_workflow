@@ -1,4 +1,4 @@
-# Linear Regression with PytTorch - a Typical Workflow
+# Linear Regression with PyTorch - a Typical Workflow
 a typical workflow for a simple linear regression problem with PyTorch
 
 PyTorch is a very popular machine learning library used to solved all kinds of problems, including regression and classification. In this article, we'll have a look at a typical workflow for a simple linear regression problem. To keep things simple, we'll stick to just the necessary elements, from importing the required libraries to saving and loading a trained model.
